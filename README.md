@@ -20,6 +20,5 @@ git clone https://github.com/MemerGamer/nvim-config.git $HOME\AppData\Local\nvim
 :PlugUpdate
 ```
 ```console
-:CocInstall
 :CocUpdate
 ```
